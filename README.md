@@ -1,8 +1,9 @@
 # ModernCommunicationTechnologyLab
 ## 现代通信技术实验：
 - 图片
-      图片
+      
 - 音频
+
       1、准备工作
         (1)各位同学准备一段语音文件，30S 左右即可，内容任意，歌曲朗诵均可，
            保存为单声道，44kbps 采样率的 wav 文件。
