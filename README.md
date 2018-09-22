@@ -1,4 +1,4 @@
-# ModernCommunicationTechnologyLab
+# Modern Communication Technology Lab
 ## 现代通信技术实验：
 - 图片
       
